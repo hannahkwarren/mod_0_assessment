@@ -3,7 +3,7 @@ movie = "Chocolat"
 is_entertaining = true
 
 # reassign movie var to a new string
-movie = "Amelie"
+movie = "Amélie"
 
 # create number vars and calculate product
 num_4 = 100
@@ -14,7 +14,7 @@ product = num_4 * num_6
 favorite_foods = ["pizza", "chocolate", "pasta"]
 
 # remove the first item in favorite_foods array
-favorite_foods = favorite_foods.shift()
+favorite_foods.shift()
 
 #print length of the movie string to console
 puts movie.length
